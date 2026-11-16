@@ -1,10 +1,10 @@
 # LANTERNFALL — light is the only weapon
 
-[![threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/c/threejs-fps-01)
-[![rank](https://make.fun/badge/threejs-fps-01/zxpast/makefun-threejs-fps-01/rank.svg)](https://make.fun/c/threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/zxpast/makefun-threejs-fps-01/reward.svg)](https://make.fun/c/threejs-fps-01)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/zxpast/makefun-threejs-fps-01/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/zxpast/makefun-threejs-fps-01/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
-A three.js tactical FPS for make.fun's [threejs-fps-01 bounty](https://make.fun/c/threejs-fps-01)
+A three.js tactical FPS for make.fun's [threejs-fps-02 bounty](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 ($1,000 — 1st $400, 2nd $200, 3rd $120, 4th–10th $40).
 
 ## The one idea
@@ -72,3 +72,7 @@ same seed always plays the same game (seeded RNG, `game/src/rng.js`).
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=6hmpy1rq&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards
